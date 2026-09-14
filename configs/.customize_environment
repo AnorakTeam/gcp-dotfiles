@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Acá se ponen cosas que se lanzan apenas empezar la instancia de cloud shell,
+# pero para eso las ponemos en local, toncs para que no haga nada:
+exit 0
