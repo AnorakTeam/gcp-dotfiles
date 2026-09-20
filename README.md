@@ -14,6 +14,16 @@ chmod +x install.sh scripts/*.sh
 source ~/.bashrc
 ```
 
+O ejecuta en la terminal de una máquina normal con Ubuntu/Mint:
+
+```bash
+git clone https://github.com/AnorakTeam/gcp-dotfiles.git ~/.dotfiles
+cd ~/.dotfiles
+chmod +x install_local.sh
+./install_local.sh
+source ~/.bashrc
+```
+
 ---
 
 ## Persistencia en Cloud Shell
